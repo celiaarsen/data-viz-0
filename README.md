@@ -8,4 +8,4 @@ The larges circle represents the hour hand of a clock. It travels accross the sc
 
 The colors of the background and the second hand gradually change every second over the course of a minute.
 The minute hand gradually changes over the course of an hour.
-The hour hand gradually changes over the course of 24 hours
+The hour hand gradually changes over the course of 24 hours.
